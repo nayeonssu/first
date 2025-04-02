@@ -54,10 +54,10 @@
 11. `git commit -m '메세지'` 수정 파일에 대한 기록 메세지 작성
 12. `git push origin main` 깃허브 저장소에 업로드
 ----
-## <html>의 속성과 값
+## html 의 속성과 값
 * <html lang="ko"> -> 언어는 한국어다 라고 표시
 * 컴퓨터의 화면 낭독 소프트웨어 "스크린 리더"
-## <meta>의 속성과 값
+## meta 의 속성과 값
 * <meta charset="UTF-8"> 설정값은 <head>에 넣어 놓는다. 문자열(charset)을 유닛코드로 다국어 지원을 하겠다.
 * <meta name="description"content=""> 요약설명
 * <meta name="kewords"content=""> ""안에 키워드 작성한다. 검색 키워드 - 검색을 했을때 관련 키워드로 내 사이트가 나올 수 있다.
